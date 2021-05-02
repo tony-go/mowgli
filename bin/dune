@@ -1,0 +1,3 @@
+(executable
+ (libraries mowgli)
+ (name main_mowgli))
