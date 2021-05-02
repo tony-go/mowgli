@@ -1,1 +1,2 @@
-print_endline Mowgli.name;;
+print_endline "Start Mowgli...";
+Mowgli.main ();

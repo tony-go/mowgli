@@ -1,2 +1,3 @@
 (library
+ (libraries interpretor types)
  (name mowgli))
